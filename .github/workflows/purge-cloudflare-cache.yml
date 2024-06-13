@@ -1,4 +1,4 @@
-name: Purge Cloudflare cache
+name: dvd121 test
 
 on:
   deployment_status:
